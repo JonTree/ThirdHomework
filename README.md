@@ -9,11 +9,19 @@
 
 ## 做作业步骤
 
+* 把整个项目fork到你的github
+
+  ![TIM截图20191020000643](README/TIM截图20191020000643.png)
+
 * 在你想存的文件夹项目的文件夹使用git bash将整个工程拉下来
 
 ```bash
-git clone https://github.com/JonTree/ThirdHomework.git
+git clone https://github.com/你的github名/ThirdHomework.git
 ```
+
+进入到你fork的
+
+![TIM截图20191020000804](README/TIM截图20191020000804.png)
 
 * 使用idea打开这个项目
 
@@ -93,3 +101,7 @@ git clone https://github.com/JonTree/ThirdHomework.git
 以上给出的数据都是可以排到一张表的。
 
 排完之后把每个班次里面是那些人输出出来。
+
+### 完成作业之后
+
+请提交pull requests到我的仓库 （怎么提，百度）
