@@ -92,3 +92,4 @@ git clone https://github.com/JonTree/ThirdHomework.git
 
 以上给出的数据都是可以排到一张表的。
 
+排完之后把每个班次里面是那些人输出出来。
