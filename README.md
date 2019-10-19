@@ -37,7 +37,7 @@ git clone https://github.com/你的github名/ThirdHomework.git
 
 * Data类和数据使用说明
 
-  Data中你会用到的只有一个成员变量也就是`datas`里面有我为你准备的所有需要排版的人员的数据
+  Data中你会用到的只有一个成员变量也就是`datas`里面有我为你准备的所有需要被排班的人员的数据
 
   **如何取得**`datas`？
 
@@ -48,7 +48,7 @@ git clone https://github.com/你的github名/ThirdHomework.git
 
   datas如何使用？
 
-  * datas里面有4组数据，任选一组去实现排班即可，给你四组是让你确认你写的算法是否适用所有足够随机的且是可以被安排在这张表上的
+  * datas里面有4组数据，任选一组去实现排班即可，给你四组是让你确认你写的算法是否适用所有足够随机的且是可以被安排在这张表上的数据
 
     ```java
     //例如我们现在需要取得第一组数据
