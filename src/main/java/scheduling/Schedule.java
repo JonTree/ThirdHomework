@@ -1,4 +1,4 @@
-package Scheduling;
+package scheduling;
 
 import data.Student;
 import data.Turn;

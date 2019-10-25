@@ -1,4 +1,4 @@
-import Scheduling.Schedule;
+import scheduling.Schedule;
 import data.Data;
 
 public class Main {
