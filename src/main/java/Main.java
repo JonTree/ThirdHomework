@@ -1,12 +1,14 @@
+import Scheduling.Schedule;
 import data.Data;
-import data.Student;
-import data.Turn;
-
-import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
         Data data = new Data();
-        //TODO 在这里开始你的程序
+        Schedule s = new Schedule();
+        for (int i = 0; i < data.datas.size(); i++) {
+            System.out.println("根据data" + (i + 1) + "得出下表:");
+            s.getTable(data.datas.get(i));
+            s.print();
+        }
     }
 }
