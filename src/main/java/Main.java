@@ -1,4 +1,5 @@
 import data.Data;
+
 import data.Student;
 import data.Turn;
 import data.TurnBook;
@@ -13,6 +14,7 @@ public class Main {
 
     public static void main(String[] args) {
         Data data = new Data();
+
         ArrayList<Student> students;
         TurnBook turnBook = new TurnBook();
         Boolean flag;

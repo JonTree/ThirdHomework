@@ -6,6 +6,15 @@ public class Student {
 
     private String name;
     private List<Turn> suitableTurns;
+    private int arrangeCount = 2;
+
+    public int getArrangeCount() {
+        return arrangeCount;
+    }
+
+    public void changeArrangeCount() {
+        arrangeCount--;
+    }
 
     public String getName() {
         return name;
