@@ -14,6 +14,7 @@ public class Data {
     private Gson gson = new Gson();
 
     public Data() {
+
         File file = new File("Data");
         File[] files = file.listFiles();
         for (int i = 0; i < files.length; i++) {
