@@ -9,6 +9,7 @@ public class Main {
             System.out.println("根据data" + (i + 1) + "得出下表:");
             s.getTable(data.datas.get(i));
             s.print();
+
         }
     }
 }
